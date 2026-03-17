@@ -1,0 +1,8 @@
+{
+  "httpPort": 7860,
+  "ftpHost": "192.168.1.100",
+  "ftpPort": 21,
+  "ftpUser": "xboxftp",
+  "ftpPass": "xboxftp",
+  "ftpSecure": false
+}
